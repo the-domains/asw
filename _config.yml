@@ -1,0 +1,28 @@
+name: asw
+favicon: null
+layout_spectrum: 0.9933321066200733
+typography_spectrum: 0.32743408204987645
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.2792012393474579
+  lightness: 0.7313279791269451
+  saturation: 0.5474406718276441
+  rhythmicContrast: 0.5672622125130147
+purpose: []
