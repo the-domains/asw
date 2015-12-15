@@ -1,7 +1,7 @@
 name: asw
 favicon: null
-layout_spectrum: 0.24548
-typography_spectrum: 0.24052
+layout_spectrum: 0.9552
+typography_spectrum: 0.46985
 cta:
   domain: null
   bucket: null
@@ -16,13 +16,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#f3e2ae'
-    - '#457448'
     - '#ffffff'
-    - '#5f8762'
-    - '#a3b9a4'
+    - '#34672c'
+    - '#000000'
+    - '#fbca02'
+    - '#c04794'
   brandStrength: 0.3125
-  lightness: 0.7313279791269451
-  saturation: 0.5474406718276441
-  rhythmicContrast: 0.5672622125130147
+  lightness: 0.6875
+  saturation: 0.25
+  rhythmicContrast: 0.5
 purpose: []
