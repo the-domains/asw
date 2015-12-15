@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[asw]]></title>
         <description><![CDATA[asw]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/asw/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 15 Dec 2015 11:52:02 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Tue, 15 Dec 2015 11:55:09 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/asw/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
-            <description><![CDATA[<p>This is a nice text. This is a nice text. This is a nice text. This is a nice text. This is a nice text. This is a nice text. This is a nice text. This is a nice text. This is a nice text. This is a nice text. This is a nice text.</p>]]></description>
-            <link>undefinedf9b13701-26a0-46ee-84e7-d40bde86aa42/index.html</link>
+            <description><![CDATA[<p>This is a nice text. This is a nice text. This is a nice text. This is a nice text. This is a nice text. This is a nice text. This is a nice text. This is a nice text. This is a nice text. This is a nice text. This is a nice text.This is a nice text. </p>]]></description>
+            <link>https://thegrid.ai/asw/f9b13701-26a0-46ee-84e7-d40bde86aa42/index.html</link>
             <guid isPermaLink="false">f9b13701-26a0-46ee-84e7-d40bde86aa42</guid>
-            <pubDate>Tue, 15 Dec 2015 11:52:02 GMT</pubDate>
+            <pubDate>Tue, 15 Dec 2015 11:55:09 GMT</pubDate>
         </item>
     </channel>
 </rss>
